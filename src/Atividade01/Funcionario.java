@@ -1,5 +1,5 @@
 package Atividade01;
-// Consideramos 1 para manhã, dois para tarde e 3 para notie
+// Consideramos 1 para manhã, dois para tarde e 3 para noite
 //
 
 public class Funcionario {
